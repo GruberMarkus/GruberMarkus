@@ -1,6 +1,6 @@
 Hi,
 
-My name is Markus Gruber. I am a Digital Advisor and Product Manager with more than two decades of international experience (details on [LinkedIn](https://www.linkedin.com/in/gruberma/)).
+My name is Markus Gruber. I am a Consultant, Digital Advisor and Product Manager with more than two decades of international experience (details on [LinkedIn](https://www.linkedin.com/in/gruberma/)).
 
 GitHub is my platform of choice for publishing several open-source projects I created, own and maintain.
 
