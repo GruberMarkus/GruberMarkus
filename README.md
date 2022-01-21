@@ -10,3 +10,5 @@ It is Free and Open-Source Software (FOSS), feature rich and can save companies 
 If you consider sponsoring, please visit any of my repositories and click the sponsor button, or contact me for consulting and project work.
 
 Please feel free to visit the issues page of my repositories to voice any of your thoughts or concerns.
+
+I am looking forward to hearing from you!
