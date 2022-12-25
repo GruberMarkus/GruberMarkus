@@ -10,4 +10,4 @@ If you consider sponsoring or are looking for consulting, please visit any of my
 
 Please feel free to visit the issues page of my repositories to voice any of your thoughts or concerns.
 
-I am looking forward to hearing from you!
+I look forward to hearing from you!
