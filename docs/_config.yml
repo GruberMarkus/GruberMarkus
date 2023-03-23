@@ -13,9 +13,9 @@ subtitle: "This is the subtitle"
 
 description: "A short description of your site's purpose"
 
-# url: "https://example.github.io" or url: "https://example.com" if you have a custom domain name.
-# baseurl: "/xxx"
-# repository: "username/repo-name"
+url: "https://grubermarkus.github.io" # or url: "https://example.com" if you have a custom domain name.
+baseurl: "/Grubermarkus"
+repository: "GruberMarkus/GruberMarkus"
 
 logo: "/assets/images/88x88.png"
 
