@@ -4,8 +4,7 @@ plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
 
-minimal_mistakes_skin: "dark"
-# "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 title: "The title of your site"
 title_separator: "|"
@@ -14,9 +13,8 @@ subtitle: "This is the subtitle"
 
 description: "A short description of your site's purpose"
 
-url: "https://grubermarkus.github.io"
-# or url: "https://example.com" if you have a custom domain name.
-baseurl: "/Grubermarkus"
+url: "https://grubermarkus.github.io" # or url: "https://example.com" if you have a custom domain name.
+baseurl: "/GruberMarkus"
 repository: "GruberMarkus/GruberMarkus"
 
 logo: "/assets/images/88x88.png"
